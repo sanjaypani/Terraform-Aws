@@ -1,6 +1,8 @@
 # Terraform-Aws
-Terraform basics &amp; usage with AWS. 
 
+Course URL : https://www.youtube.com/watch?v=Hh2LMacslms
+
+Terraform basics &amp; usage with AWS. 
 
 Step 1 : copy the terraform.exe inside your local directory ex: C:\terraform (folder)
 
